@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lsmohan
 - 👀 I’m interested in machine learning in conjunction with physics based models (sciml, PINN etc.)
-- 🌱 I’m currently learning Julia and SciML framework, along with Bayesian Statistics.
+- 🌱 I’m currently learning Julia and SciML framework, along with Bayesian Statistics. I am very proficient in Python, and the ML ecosystem.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
